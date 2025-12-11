@@ -3,7 +3,7 @@ package com.paworo06.gameverse.data.logic
 import com.paworo06.gameverse.data.model.CartItem
 import com.paworo06.gameverse.data.model.Game
 
-object CartManager {
+class CartManager {
     private val cartItems = mutableListOf<CartItem>()
 
     /**

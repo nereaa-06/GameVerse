@@ -3,7 +3,7 @@ package com.paworo06.gameverse.data.logic
 import com.paworo06.gameverse.R
 import com.paworo06.gameverse.data.model.Game
 
-object GameRepository {
+class GameRepository {
     private val listGames = listOf(
         Game(
             id = 1,
