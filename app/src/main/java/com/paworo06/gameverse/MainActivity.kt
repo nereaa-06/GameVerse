@@ -54,6 +54,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun MainAppStructure() {
     // 1. Estado de la pantalla activa
